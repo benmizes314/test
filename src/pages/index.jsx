@@ -93,10 +93,11 @@ const Index = () => (
           </ProjectCard>
           <ProjectCard
             title="Drizzle SMS"
-            link="https://www.behance.net/gallery/38068151/Eagle"
+            link="https://dribbble.com/shots/3399007-Dash-Messenger"
             bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
           >
-            Drizzle was the first app that paid you for every text you sent and received. Over 50,000 downloads in our first 3 months. 
+            Drizzle was the first app that paid you for every text you sent and received. Over 50,000 downloads in our first 3 months.
+            Ended up pivoting to Dash SMS Messenger to take on Google Hangouts.
           </ProjectCard>
         </ProjectsWrapper>
       </Projects>
