@@ -63,9 +63,9 @@ const Index = () => (
     <Parallax pages={5}>
       <Hero offset={0}>
         <BigTitle>
-          Hello, <br /> I'm John Doe.
+          Hello, <br /> I'm Ben Mizes.
         </BigTitle>
-        <Subtitle>I'm creating noice web experiences for the next generation of consumer-facing companies.</Subtitle>
+        <Subtitle>I'm a real estate investor and entrepreneur.</Subtitle>
       </Hero>
       <Projects offset={1}>
         <Title>Projects</Title>
@@ -103,7 +103,7 @@ const Index = () => (
       <About offset={3}>
         <Title>About</Title>
         <AboutHero>
-          <Avatar src={avatar} alt="John Doe" />
+          <Avatar src={avatar} alt="Ben Mizes" />
           <AboutSub>
             The English language can not fully capture the depth and complexity of my thoughts. So I'm incorporating
             Emoji into my speech to better express myself. Winky face.
@@ -122,8 +122,8 @@ const Index = () => (
           <Title>Get in touch</Title>
           <ContactText>
             Say <a href="mailto:plizNoSp4m@domain.tld">Hi</a> or find me on other platforms:{' '}
-            <a href="https://dribbble.com/LekoArts">Dribbble</a> &{' '}
-            <a href="https://www.instagram.com/lekoarts.de/">Instagram</a>
+            <a href="https://medium.com/@benmizes">Medium</a> &{' '}
+            <a href="https://www.listwithclever.com/">Clever</a>
           </ContactText>
         </Inner>
         <Footer>
