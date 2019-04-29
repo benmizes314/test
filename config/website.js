@@ -15,7 +15,7 @@ module.exports = {
 
   // siteFBAppID: '123456789', // Facebook App ID - Optional
   userTwitter: '@benmizes', // Twitter Username
-  ogSiteName: 'cara', // Facebook Site Name
+  ogSiteName: 'benmizes', // Facebook Site Name
   ogLanguage: 'en_US', // Facebook Language
   googleAnalyticsID: '',
 
