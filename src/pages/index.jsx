@@ -105,7 +105,7 @@ const Index = () => (
         <AboutHero>
           <Avatar src={avatar} alt="Ben Mizes" />
           <AboutSub>
-            Do or do not. There is no try. -
+            Do or do not. There is no try.
           </AboutSub>
         </AboutHero>
         <AboutDesc>
