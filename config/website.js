@@ -10,7 +10,7 @@ module.exports = {
   siteUrl: 'https://www.benmizes.com', // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
   siteLogo: '/logo.png', // Used for SEO and manifest
-  siteDescription: 'Ben Mizes - Real Estate Investor, Entrepreneur, and proud St. Louis native ',
+  siteDescription: 'Ben Mizes Official Site - Ben is an entrepreneur, real estate investor, and proud St. Louis native.',
   author: 'LekoArts', // Author for schema.org JSONLD
 
   // siteFBAppID: '123456789', // Facebook App ID - Optional
