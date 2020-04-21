@@ -92,12 +92,11 @@ const Index = () => (
             I write about startups, investing, and personal finance
           </ProjectCard>
           <ProjectCard
-            title="Drizzle SMS"
-            link="https://dribbble.com/shots/3399007-Dash-Messenger"
+            title="Rental Property Calculator"
+            link="https://listwithclever.com/rental-property-calculator/"
             bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
           >
-            Drizzle was the first app that paid you for every text you sent and received. Over 50,000 downloads in our first 3 months.
-            Ended up pivoting to Dash SMS Messenger to take on Google Hangouts.
+           I built a rental property calculator that makes it easy to project income, expenses, and cashflow for a prospective investment property.
           </ProjectCard>
         </ProjectsWrapper>
       </Projects>
