@@ -75,7 +75,7 @@ const Index = () => (
             link="https://Listwithclever.com"
             bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
           >
-            Founder and CEO. Sell your home and save thousands.
+            Founder and former CEO. Sell your home and save thousands.
           </ProjectCard>
           <ProjectCard
             title="Arch Buyers"
@@ -110,8 +110,8 @@ const Index = () => (
         </AboutHero>
         <AboutDesc>
        I'm Ben. I'm a real estate investor that focuses on Multifamily real estate in St. Louis, and the Founder of Clever Real Estate.
-          Clever let's anyone list their home for a flat fee of $3,000, or 1% if their home is more expensive.
-          In my free time I like St. Louis Blues Hockey, Camping, and my dog. 
+          Whether you want to sell your home and save on commission, buy and get cash back, or compar cash offers, Clever can help you make a smart real estate decision. 
+  
         </AboutDesc>
       </About>
       <Contact offset={4}>
